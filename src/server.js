@@ -43,7 +43,7 @@ const allowedOrigins = [
     'http://localhost:3059',
     'https://fontend-thuongmaidientu-zhlt.vercel.app/',
     'https://thuongmaidientu-585e.onrender.com',
-    'https://bandodientu-kt-trangchu.vercel.app',
+    'https://fontend-thuongmaidientu.vercel.app',
     'https://admin-dodientu.duykhang.site',
     'https://shopbandodientu.duykhang.site',
     'https://backend-bandodientu-node.duykhang.site'
