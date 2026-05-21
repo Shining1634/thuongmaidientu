@@ -40,7 +40,7 @@ const allowedOrigins = [
     'http://localhost:3009', // Local development
     'http://localhost:3059', // Local development
     'https://bandodientu-admin.vercel.app',
-    'https://fontend-thuongmaidientuf-admin-5682.vercel.app'
+    'https://fontend-thuongmaidientuf-admin-5682.vercel.app',
     'https://bandodientu-kt-trangchu.vercel.app',
     'https://admin-dodientu.duykhang.site',
     'https://shopbandodientu.duykhang.site',
